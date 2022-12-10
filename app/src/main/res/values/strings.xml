@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskNine</string>
+    <string name="notification_channel">default_notification_channel</string>
+</resources>
